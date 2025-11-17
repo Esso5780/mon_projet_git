@@ -1,2 +1,2 @@
 ce sont les notes elèves de vde
-tous partis en mission
+tous partis en mission en IDE
