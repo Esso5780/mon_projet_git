@@ -3,4 +3,3 @@ tous partis en mission en IDE
 les consultants sont appreéciés par rapport aux autres
 ajout depuit feature1:
 ajout depuit feature2:
-test par erreur 
